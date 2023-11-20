@@ -1,0 +1,24 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  justify-content: center;
+  min-width: 320px;
+  min-height: 100vh;
+  background-image: url("./assets/images/nubes.jpg");
+}
+
+h1 {
+  font-size: 5rem;
+  font-family: fantasy;
+  font-weight: 400;
+  color: yellow;
+  border-color: #1a1a1a 3px;
+}
